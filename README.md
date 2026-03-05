@@ -13,8 +13,8 @@ Visualizar el cumplimiento de metas comerciales por región y ciudad, facilitand
 * **Diseño UX/UI:** Layout basado en tarjetas, uso de sombras suaves para profundidad y jerarquía de colores (Azul corporativo).
 
 ## 🚀 Cómo visualizar este proyecto
-* **Visualización rápida:** Abre el archivo `analisis_objetivos_ventas_jg.pdf` para ver el diseño final.
-* **Exploración técnica:** Descarga el archivo `analisis_objetivos_ventas.pbix` para revisar el modelo y DAX en Power BI Desktop.
+* **Visualización rápida:** Abrir el archivo `analisis_objetivos_ventas_jg.pdf` para ver el diseño y layout final.
+* **Exploración técnica:** Descargar el archivo `analisis_objetivos_ventas.pbix` para auditar el modelo y las medidas DAX. Se recomienda navegar las interacciones y filtros para validar la consistencia de los KPIs en los distintos niveles de detalle.
 
 ## ✉️ Contacto
 [LinkedIn](https://www.linkedin.com/in/jazmin-guazzora/) | [Gmail](mailto:jazminguazzora@gmail.com) | [WhatsApp](https://wa.me/5491169718295)
