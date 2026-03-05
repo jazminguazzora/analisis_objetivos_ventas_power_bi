@@ -1,6 +1,6 @@
 # 📊 Dashboard: Control de Objetivos de Venta
 
-![Portada del Proyecto](analisis_objetivos_ventas_jg.png) 
+![Portada del Proyecto](analisis_objetivos_ventas_jg) 
 
 ## 🎯 Objetivo
 Visualizar el cumplimiento de metas comerciales por región y ciudad, facilitando la detección de desviaciones y la toma de decisiones.
